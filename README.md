@@ -17,17 +17,20 @@ If you do not have any cs background I highly recommend to take look at a Data S
 
 Online Courses:
 
-* Coursera Data Science 10-course specilization, offered by john hopkins university - <a href="https://www.coursera.org/specializations/jhu-data-science">link</a> - 1 - 3 <br>
-* This course related to An Introduction to Statistical Learning book - <a href="http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/">link</a> 2-4 <br>
-* Coursera Machine Learning offered by Stanford University - <a href="https://www.coursera.org/learn/machine-learning">link</a> 2.5 <br>
-
+* Coursera: Data Science 10-course specilization, offered by john hopkins university - <a href="https://www.coursera.org/specializations/jhu-data-science">link</a>  (1-3) <br>
+* YouTube: This course related to An Introduction to Statistical Learning book - <a href="http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/">link</a> (2-4) <br>
+* Coursera: Machine Learning offered by Stanford University - <a href="https://www.coursera.org/learn/machine-learning">link</a> (2.5) <br>
+* edx: The Analytics Edge - <a href="https://www.edx.org/course/analytics-edge-mitx-15-071x-2">link</a> (3)
 
 Books:
-* An Introduction to Statistical Learning - <a href="https://web.stanford.edu/~hastie/local.ftp/Springer/ISLR_print1.pdf">pdf</a> 3-4 <br>
-* Data Science for Business - <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link</a> 2-3 <br>
+* An Introduction to Statistical Learning - <a href="https://web.stanford.edu/~hastie/local.ftp/Springer/ISLR_print1.pdf">pdf</a> (3) <br>
+* Data Science for Business - <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link</a> (2-3) <br>
 
 ## 2. Understanding Theory (You can skip this part)
-* Understanding Machine Learning - by Shai Ben-david - <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">link</a> 3-4 <br>
-* 
+* Understanding Machine Learning - by Shai Ben-david - <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">link</a> (4) <br>
+* Statistical Learning- Classification - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/statistical-learning-classification">link</a> (3-4) <br>
+* The Elements of Statistical Learning - <a href="http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf">pdf</a> (4) <br>
+
 
 ## 3. Advanced Tools
+* Deep Learning - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/deep-learning">link</a> <3.5> <br>
