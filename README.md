@@ -36,8 +36,10 @@ Courses:
 
 Books:
 * The Elements of Statistical Learning - <a href="http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf">pdf</a> (4) <br>
-* Understanding Machine Learning: From Theory to Algorithms<a href="http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">pdf</a> (4)<br>
+* Understanding Machine Learning: From Theory to Algorithms - <a href="http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">pdf</a> (4)<br>
+* Pattern Recognition and Machine Learning - <a href="http://research.microsoft.com/en-us/um/people/cmbishop/prml/">link</a> (4)<br>
 
 
 ## 3. Advanced Tools
 * YouTubeDeep Learning - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/deep-learning">link</a> (3.5) <br>
+* YouTube: Convolutional Neural Networks for Visual Recognition - <a href="http://cs231n.stanford.edu/syllabus.html">link</a>
