@@ -10,8 +10,10 @@ The second part in for the people who wants to have seeper understanding of math
 The third part is devoted to the more advanced tools like Deep Learning, RNN, CNN, XGBoost, and etc.
 
 I rated the sources difficulties from 1- easy to 5 -hard.
-###Note:
+### Note 1:
 If you do not have any cs background I highly recommend to take look at a Data Structure and Algorithm course and if you dont have a statuscal backgrond an introductry course in statistics can be very helpful.
+### Note 2:
+The hyperlinks are subjected to changes, but you can find any of them by just googling the title easily.
 
 ## 1. Introduction to Data Science:
 
@@ -27,10 +29,15 @@ Books:
 * Data Science for Business - <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link</a> (2-3) <br>
 
 ## 2. Understanding Theory (You can skip this part)
-* Understanding Machine Learning - by Shai Ben-david - <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">link</a> (4) <br>
-* Statistical Learning- Classification - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/statistical-learning-classification">link</a> (3-4) <br>
+Courses:
+
+* YouTube: Understanding Machine Learning - by Shai Ben-david - <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">link</a> (4) <br>
+* YouTube: Statistical Learning- Classification - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/statistical-learning-classification">link</a> (3-4) <br>
+
+Books:
 * The Elements of Statistical Learning - <a href="http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf">pdf</a> (4) <br>
+* Understanding Machine Learning: From Theory to Algorithms<a href="http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">pdf</a> (4)<br>
 
 
 ## 3. Advanced Tools
-* Deep Learning - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/deep-learning">link</a> <3.5> <br>
+* YouTubeDeep Learning - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/deep-learning">link</a> (3.5) <br>
