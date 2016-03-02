@@ -11,7 +11,7 @@ The third part is devoted to the more advanced tools like Deep Learning, RNN, CN
 
 1. Introduction to Data Science:
 Online Courses:
-Coursera Data Science 10-course specilization (link=https://www.coursera.org/specializations/jhu-data-science)
+Coursera Data Science 10-course specilization (<a href=https://www.coursera.org/specializations/jhu-data-science, linl /a>)
 Books:
 
 2. Understanding Theory (You can skip this part)
