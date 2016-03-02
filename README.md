@@ -11,7 +11,7 @@ The third part is devoted to the more advanced tools like Deep Learning, RNN, CN
 
 I rated the sources difficulties from 1- easy to 5 -hard.
 
-1. Introduction to Data Science:
+## 1. Introduction to Data Science:
 
 Online Courses:
 
@@ -25,9 +25,9 @@ Books:
  
 
 
-2. Understanding Theory (You can skip this part)
+## 2. Understanding Theory (You can skip this part)
   Understanding Machine Learning - by Shai Ben-david <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">linl</a> <br>
-3. Advanced Tools
+## 3. Advanced Tools
 
 
 
