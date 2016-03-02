@@ -11,7 +11,7 @@ The third part is devoted to the more advanced tools like Deep Learning, RNN, CN
 
 I rated the sources difficulties from 1- easy to 5 -hard.
 ###Note:
-If you do not have any cs background I highly recommend to take look at a Data Structure and Algorithm course and if you dont have a statuscal backgrond an introductry course in statistics can be very helpful,
+If you do not have any cs background I highly recommend to take look at a Data Structure and Algorithm course and if you dont have a statuscal backgrond an introductry course in statistics can be very helpful.
 
 ## 1. Introduction to Data Science:
 
@@ -23,9 +23,8 @@ Coursera Machine Learning offered by Stanford University (<a href="https://www.c
 
 
 Books:
- An Introduction to Statistical Learning <a href="https://web.stanford.edu/~hastie/local.ftp/Springer/ISLR_print1.pdf">(pdf)</a> 3-4
- 
-
+ An Introduction to Statistical Learning <a href="https://web.stanford.edu/~hastie/local.ftp/Springer/ISLR_print1.pdf">(pdf)</a> 3-4 <br>
+Data Science for Business <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link<\a> <br>
 
 ## 2. Understanding Theory (You can skip this part)
   Understanding Machine Learning - by Shai Ben-david <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">(link)</a> <br>
