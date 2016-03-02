@@ -24,7 +24,7 @@ Online Courses:
 
 Books:
 * An Introduction to Statistical Learning - <a href="https://web.stanford.edu/~hastie/local.ftp/Springer/ISLR_print1.pdf">pdf</a> 3-4 <br>
-* Data Science for Business - <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link<\a> 2-3 <br>
+* Data Science for Business - <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link</a> 2-3 <br>
 
 ## 2. Understanding Theory (You can skip this part)
 * Understanding Machine Learning - by Shai Ben-david - <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">link</a> 3-4 <br>
