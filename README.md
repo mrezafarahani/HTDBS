@@ -9,9 +9,15 @@ The second part in for the people who wants to have seeper understanding of math
 
 The third part is devoted to the more advanced tools like Deep Learning, RNN, CNN, XGBoost, and etc.
 
+I rated the sources difficulties from 1- easy to 5 -hard.
+
 1. Introduction to Data Science:
+
 Online Courses:
-Coursera Data Science 10-course specilization (<a href="https://www.coursera.org/specializations/jhu-data-science"> link</a>)
+
+Coursera Data Science 10-course specilization, offered by john hopkins university (<a href="https://www.coursera.org/specializations/jhu-data-science">link</a>) - 1 - 3 <br>
+Coursera Machine Learning offered by Stanford University (<a href="https://www.coursera.org/learn/machine-learning">link</a>)
+
 Books:
 
 2. Understanding Theory (You can skip this part)
