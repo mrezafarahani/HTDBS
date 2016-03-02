@@ -29,7 +29,7 @@ Books:
 * Data Science for Business - <a href="http://www.amazon.ca/Data-Science-Business-data-analytic-thinking/dp/1449361323">link</a> (2-3) <br>
 
 ## 2. Understanding Theory (You can skip this part)
-Courses:
+Online Courses:
 
 * YouTube: Understanding Machine Learning - by Shai Ben-david - <a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q">link</a> (4) <br>
 * YouTube: Statistical Learning- Classification - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/statistical-learning-classification">link</a> (3-4) <br>
@@ -41,5 +41,18 @@ Books:
 
 
 ## 3. Advanced Tools
-* YouTubeDeep Learning - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/deep-learning">link</a> (3.5) <br>
-* YouTube: Convolutional Neural Networks for Visual Recognition - <a href="http://cs231n.stanford.edu/syllabus.html">link</a>
+* YouTubeDeep Learning - by Ali Ghodsi - <a href="https://uwaterloo.ca/data-science/deep-learning">link</a> (4) <br>
+* YouTube: Convolutional Neural Networks for Visual Recognition - <a href="http://cs231n.stanford.edu/syllabus.html">link</a> (3-4) <br>
+* Blog: colah's blog  - <a href="http://colah.github.io/">link</a> (3-4) <br>
+* Course Material: Deep Learning by Bhiksha Raj - <a href="http://deeplearning.cs.cmu.edu/">link</a> (4) <br>
+
+## good to know:
+* Learn either python or R or both 
+* Learn C++ if you can 
+* Keep Updated in the cummunity, thses are some links:
+	* http://www.kdnuggets.com/
+	* https://www.reddit.com/r/machinelearning
+* Look for competitions:
+	* https://competitions.codalab.org/
+	* https://www.kaggle.com/
+	
