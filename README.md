@@ -46,13 +46,14 @@ Books:
 * Blog: colah's blog  - <a href="http://colah.github.io/">link</a> (3-4) <br>
 * Course Material: Deep Learning by Bhiksha Raj - <a href="http://deeplearning.cs.cmu.edu/">link</a> (4) <br>
 
-## good to know:
+## Good to know:
 * Learn either python or R or both 
 * Learn C++ if you can 
-* Keep Updated in the cummunity, thses are some links:
+* Keep updated in the cummunity, thses are some links:
 	* http://www.kdnuggets.com/
 	* https://www.reddit.com/r/machinelearning
-* Look for competitions:
+* Look for competitions, again some links:
 	* https://competitions.codalab.org/
 	* https://www.kaggle.com/
 	
+
